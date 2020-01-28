@@ -1,0 +1,27 @@
+{
+  "name": "under-construction",
+  "version": "1.0.0",
+  "description": "Brand aware \"Under Construction\" website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmd909/under-construction.git"
+  },
+  "author": "Tim Doerzbacher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timmd909/under-construction/issues"
+  },
+  "homepage": "https://github.com/timmd909/under-construction#readme",
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "colors": "^1.4.0",
+    "grunt": "^1.0.4",
+    "load-grunt-config": "^3.0.1",
+    "lodash": "^4.17.15",
+    "time-grunt": "^2.0.0"
+  }
+}
